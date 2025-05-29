@@ -55,4 +55,9 @@ We’re excited to build upon this foundation by:
 
 ---
 
+## Demo
+
+![Demo](gif.gif)
+
+
 Let us know your thoughts or fork this repository to start racing your own autonomous vehicle.
